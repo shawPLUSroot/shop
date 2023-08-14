@@ -5,3 +5,12 @@ shawplusroot-shop:
     my_cool_key: My Cool Key
 
   forum:
+    purchase: Purchase
+
+  lib:
+    modal:
+      invite_code_amount: Invite Code Amount
+      confirm: Confirm
+      insufficient_money_alert: Insufficient Money!
+      instruction: "Your invitation code: {invitationCode}\n please make sure you have remembered it!"
+      purchase_detail: Purchase Detail

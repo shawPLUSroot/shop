@@ -1,0 +1,16 @@
+shawplusroot-shop:
+  # For more details on the format
+  # Checkout https://docs.flarum.org/extend/i18n/#appendix-a-standard-key-format
+  admin:
+    my_cool_key: My Cool Key
+
+  forum:
+    purchase: 购买
+
+  lib:
+    modal:
+      invite_code_amount: 邀请码数量
+      confirm: 确认
+      insufficient_money_alert: 余额不足！
+      instruction: "你已获得邀请码: {invitationCode} \n 请确认你已经记下来！"
+      purchase_detail: 购买详情
