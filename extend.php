@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Shawplusroot\Shop;
+namespace Shawplusroot\\Shop;
 
 use Flarum\Extend;
 
