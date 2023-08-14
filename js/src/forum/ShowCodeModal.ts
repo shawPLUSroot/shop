@@ -35,6 +35,5 @@ export default class ShowCodeModal extends Modal {
         event.preventDefault();
         this.hide();
         this.loading = false;
-        location.reload();
     }
 }
